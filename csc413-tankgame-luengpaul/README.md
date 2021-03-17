@@ -1,11 +1,3 @@
-# csc413-tankgame
-
-## Student Name  :Paul Lueng
-## Student ID    :916168375
-
-
-## src folder is to be used to store source code only.
-
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
+# TANK GAME
+Screenshot:
+![TANK](https://user-images.githubusercontent.com/51522463/111420476-83df2880-86a8-11eb-95cb-45764362b657.JPG)
